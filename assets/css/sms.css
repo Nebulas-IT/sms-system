@@ -1,0 +1,15 @@
+textarea.sms-text-area {
+    height: 200px;
+}
+
+.sms-header {
+    min-height: 100px;
+    background: #1a1a1a;
+}
+ul.sidebar-menu {
+    margin-top: 200px; !important;
+}
+
+.sms-header-bottom {
+background: #00c5de;
+}
